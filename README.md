@@ -1,4 +1,4 @@
-# Your ReactJS and Bootstrap Web Application
+# My ReactJS and Bootstrap Web Application
 
 ## Overview
 
@@ -83,5 +83,4 @@ Follow these steps to set up and run the application:
 
 ## Postman API Collection:
 
-https://api.postman.com/collections/24582109-37d97559-22b0-42e0-b592-7fd8b90b8e01?
-access_key=PMAT-01GXAEX88FNRZN45AWACQ2V20F
+https://api.postman.com/collections/24582109-37d97559-22b0-42e0-b592-7fd8b90b8e01?access_key=PMAT-01GXAEX88FNRZN45AWACQ2V20F
