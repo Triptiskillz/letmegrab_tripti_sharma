@@ -1,0 +1,97 @@
+a,
+a:focus,
+a:hover {
+  text-decoration: none;
+  outline: 0;
+}
+
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+}
+.single-blog img {
+  border-radius: 10px;
+}
+.single-blog .post-tags li a {
+  color: #222;
+  font-weight: 500;
+}
+.single-blog .post-date {
+  color: #222;
+  font-size: 14px;
+  font-weight: 500;
+}
+.single-menu {
+  background-color: #fff;
+  box-shadow: 0px 10px 30px 0px rgba(182, 136, 52, 0.2);
+  border-radius: 10px;
+  padding: 30px 30px;
+  margin-bottom: 30px;
+}
+.menu-area {
+  background: url("https://preview.colorlib.com/theme/coffee/img/menu-bg.jpg.webp")
+    center;
+  background-size: cover;
+}
+.section-gap {
+  padding: 120px 0;
+}
+.single-menu .price {
+  color: #b68834;
+  font-size: 18px;
+  font-weight: 600;
+}
+.gallery-area img {
+  margin-bottom: 30px;
+  width: 100%;
+}
+.review-area {
+  background-color: #000;
+  color: #fff;
+}
+.single-review .star .checked {
+  color: orange;
+}
+.counter-row .single-counter h1 {
+  font-size: 60px;
+  font-weight: 100;
+}
+.footer-area {
+  color: #fff;
+  padding-top: 220px;
+  background: url("https://preview.colorlib.com/theme/coffee/img/footer-bg.jpg.webp")
+    center;
+  background-size: cover;
+}
+.form-inline {
+  display: flex;
+  flex-flow: row wrap;
+  align-items: center;
+}
+.single-footer-widget input {
+  border: none;
+  width: 80% !important;
+  font-weight: 300;
+  background: #fff;
+  color: #777;
+  padding-left: 20px;
+  border-radius: 0;
+  font-size: 14px;
+  padding: 10px 18px;
+}
+.single-footer-widget .click-btn {
+  background-color: #b68834;
+  color: #fff;
+  border-radius: 0;
+  border-top-left-radius: 0px;
+  border-bottom-left-radius: 0px;
+  padding: 8px 12px;
+  border: 0;
+}
+.footer-social i {
+  padding-right: 25px;
+}
+.bg-images {
+  background: url("./images/Coffee 1.jpg") center;
+  background-size: cover;
+}
